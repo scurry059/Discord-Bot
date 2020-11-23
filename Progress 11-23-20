@@ -128,5 +128,5 @@ async def new_command(ctx):
 # The end of all gaming commands
 
 
-client.run('NzYyNzY5NTM1MTMyMTA2NzYz.X3t-fA.1K5k8-O_h1X3uVCyMOhb6kLTKMs')
+client.run('Insert Token here')
 # Allows the bot to actually run
